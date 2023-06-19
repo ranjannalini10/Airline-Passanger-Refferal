@@ -38,4 +38,4 @@
 
  value_for_money: Rating given for the value for money.
 
- recommended: Indicates whether the customer recommends the airline (yes or no).
+ recommended: Indicates whether the customer recommends the airline.
